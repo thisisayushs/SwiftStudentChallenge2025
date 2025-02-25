@@ -2,7 +2,7 @@
 
 Distraction Dodges is a focus-training experience that strengthens your focus by challenging you to resist digital distractions using eye-tracking.
 
-![App Screenshot](screenshots/Screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Features
 
