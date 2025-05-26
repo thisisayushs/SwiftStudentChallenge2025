@@ -15,3 +15,7 @@ Distraction Dodges is a focus-training experience that strengthens your focus by
 ## Technologies Used
 
 **ARKit** enables eye-tracking and **SwiftUI** allows for a visually appealing and responsive user interface.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
